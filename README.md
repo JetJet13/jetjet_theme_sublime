@@ -2,7 +2,7 @@
 
 # JetJet Theme
 This package comes with two themes, a dark-gray and gray background theme.
-This theme will work for VS Code versions 1.8.0 and greater.
+This theme was ported from VS Code to work for Sublime Text.
 
 Enjoy!
 ## Javascript
