@@ -6,9 +6,9 @@ This theme was ported from VS Code to work for Sublime Text.
 
 Enjoy!
 ## Javascript
-![sample-code](sample-code.png)
+![sample-code-js](jetjet-theme-sublime-sample-js.png)
 ## HTML
-![sample-code](sample-html-code.png)
+![sample-code-html](jetjet-theme-sublime-sample-html.png)
 # License
 
 Copyright 2017 Johny Georges
